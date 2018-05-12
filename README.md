@@ -9,3 +9,4 @@ consists of the following four sub-tasks:
 3. Learning of the motion trajectory;
 4. Imitation of the human handwriting by KUKA LWR robot.
 
+This project was done in groups within an computer science seminar at Göttingen University which was organised by Dr. Hans Riegel-Stiftung.
